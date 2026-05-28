@@ -1,4 +1,13 @@
-## 🐍 Contribution Snake
-![snake github game](https://raw.githubusercontent.com/LanC1oud/LanC1oud/output/github-contribution-grid-snake.svg)
+# 💻 Hi, I'm LanC1oud
 
-![Metrics](./github-metrics.svg)
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LanC1oud/LanC1oud/output/github-contribution-grid-snake.svg" alt="Snake" />
+</div>
+
+---
+
+### 📊 My GitHub Metrics
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LanC1oud/LanC1oud/main/github-metrics.svg" alt="Metrics" />
+</div>

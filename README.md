@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LanC1oud&show_icons=true&theme=radical)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verilog-F26522?style=for-the-badge&logo=verilog&logoColor=white" /> 
+</p>
+
 <!--
 **LanC1oud/LanC1oud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -11,21 +11,16 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # 基础配置
           user: LanC1oud
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
 
-          # 语言统计 (展示你的 OO Java 和 CO Verilog)
           plugin_languages: yes
-          plugin_languages_ignored: html, css, tex
           plugin_languages_details: bytes-size, percentage
 
-          # 编码习惯 (看看你是不是深夜修仙)
           plugin_habits: yes
-          plugin_habits_from: 200       # 减少抓取的事件数量
-          plugin_habits_days: 14        # 只看最近14天的
+          plugin_habits_charts: yes
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
